@@ -45,7 +45,7 @@ Loss: 0.5550001859664917 and Accuracy: 0.7314285635948181.
 <img width="825" alt="Screen Shot 2022-03-21 at 8 45 18 AM" src="https://user-images.githubusercontent.com/75961057/159299157-56522277-a749-4c26-985f-78e52aca54e1.png">
 
 ### Model Optimization
-To increase the performance of the [neural model](), it is optimized in order to achieve a target predictive accuracy higher than 75%. The following steps are taken:
+To increase the performance of the [neural model](https://github.com/ramya-ramamur/Neural_Network_Charity_Analysis/blob/main/AlphabetSoupCharity_Optimzation.ipynb), it is optimized in order to achieve a target predictive accuracy higher than 75%. The following steps are taken:
 
 **Dropping more or fewer columns.**
 * The STATUS feature had only 5 non active projects, so it was dropped. 
