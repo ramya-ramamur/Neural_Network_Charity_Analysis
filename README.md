@@ -1,3 +1,5 @@
+Use TensorFlow and deep learning neural networks to analyze and classify the success of charitable donations.
+
 # Neural_Network_Charity_Analysis
 
 # Analysis Overview
