@@ -9,5 +9,5 @@ We use the following methods for the analysis:
 3. Optimize the Model
 
 # Resources
-Data Source: charity_data.csv
-Software: Python 3.7.7, Anaconda Navigator 1.9.12, Conda 4.8.4, Jupyter Notebook 6.0.3
+* Data Source: LoanStats_2019Q1.csv
+* Software: Python 3.8.8, Pandas Dataframe, Jupyter Notebook 6.4.6, Anaconda Navigator 2.1.1, imbalanced-learn, skikit-learn
